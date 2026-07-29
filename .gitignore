@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backups y temporales de Zen Browser
+*.zenbackup
+*.zip
+*.tmp
+/tmp/
+
+# Archivos de SO y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
