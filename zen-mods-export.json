@@ -1,0 +1,134 @@
+{
+  "2317fd93-c3ed-4f37-b55a-304c1816819e": {
+    "id": "2317fd93-c3ed-4f37-b55a-304c1816819e",
+    "name": "Audio Indicator Enhanced",
+    "description": "Enhanced audio indicator, with more polished style (New Visualizer Mode)",
+    "homepage": "https://github.com/Kaedriz/ZenMods/tree/main/AudioIndicatorEnhanced",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/2317fd93-c3ed-4f37-b55a-304c1816819e/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/2317fd93-c3ed-4f37-b55a-304c1816819e/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/2317fd93-c3ed-4f37-b55a-304c1816819e/image.png",
+    "author": "Kaedriz",
+    "version": "1.3.1",
+    "preferences": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/2317fd93-c3ed-4f37-b55a-304c1816819e/preferences.json",
+    "tags": [],
+    "createdAt": "2024-12-06",
+    "updatedAt": "2025-10-29",
+    "enabled": true
+  },
+  "58649066-2b6f-4a5b-af6d-c3d21d16fc00": {
+    "id": "58649066-2b6f-4a5b-af6d-c3d21d16fc00",
+    "name": "Private Mode Highlighting",
+    "description": "This theme adds a configurable background, border and an icon to any private browsing window.",
+    "homepage": "https://github.com/danm36/zen-browser-private-browsing-toolbar-highlighting",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/58649066-2b6f-4a5b-af6d-c3d21d16fc00/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/58649066-2b6f-4a5b-af6d-c3d21d16fc00/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/58649066-2b6f-4a5b-af6d-c3d21d16fc00/image.png",
+    "author": "danm36",
+    "preferences": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/58649066-2b6f-4a5b-af6d-c3d21d16fc00/preferences.json",
+    "version": "1.0.5",
+    "tags": [
+      "Private Browsing"
+    ],
+    "createdAt": "2024-08-09",
+    "updatedAt": "2025-10-25",
+    "enabled": true
+  },
+  "32aca67a-ffdd-49e7-95c7-1821793610ca": {
+    "id": "32aca67a-ffdd-49e7-95c7-1821793610ca",
+    "name": "Custom Statusbar",
+    "description": "This Mod allows you to adjust the rounding, margin, border thickness and any color of the statusbar.",
+    "homepage": "https://github.com/Archer7x/Zen-Themes/tree/main/CustomStatusbar",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/32aca67a-ffdd-49e7-95c7-1821793610ca/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/32aca67a-ffdd-49e7-95c7-1821793610ca/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/32aca67a-ffdd-49e7-95c7-1821793610ca/image.png",
+    "author": "Archer7x",
+    "version": "1.0.0",
+    "tags": [],
+    "createdAt": "2024-11-19",
+    "updatedAt": "2025-01-26",
+    "preferences": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/32aca67a-ffdd-49e7-95c7-1821793610ca/preferences.json",
+    "enabled": true
+  },
+  "5941aefd-67b0-453d-9b62-9071a31cbb0d": {
+    "id": "5941aefd-67b0-453d-9b62-9071a31cbb0d",
+    "name": "Smaller Compact Mode",
+    "description": "Reduce the height of the compact sidebar.",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/5941aefd-67b0-453d-9b62-9071a31cbb0d/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/5941aefd-67b0-453d-9b62-9071a31cbb0d/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/5941aefd-67b0-453d-9b62-9071a31cbb0d/image.png",
+    "author": "n7itro",
+    "preferences": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/5941aefd-67b0-453d-9b62-9071a31cbb0d/preferences.json",
+    "version": "1.0.5",
+    "tags": [
+      "tabs"
+    ],
+    "createdAt": "2024-08-31",
+    "updatedAt": "2025-10-29",
+    "enabled": true
+  },
+  "c01d3e22-1cee-45c1-a25e-53c0f180eea8": {
+    "id": "c01d3e22-1cee-45c1-a25e-53c0f180eea8",
+    "name": "Ghost Tabs",
+    "description": "Makes unloaded tabs & folders appear ghost-like by making them grayscale and transparent.",
+    "homepage": "https://github.com/Seismix/zen-ghost-tabs",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/c01d3e22-1cee-45c1-a25e-53c0f180eea8/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/c01d3e22-1cee-45c1-a25e-53c0f180eea8/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/c01d3e22-1cee-45c1-a25e-53c0f180eea8/image.png",
+    "author": "Seismix",
+    "version": "1.1.0",
+    "tags": [],
+    "createdAt": "2025-10-02",
+    "updatedAt": "2026-03-11",
+    "enabled": true
+  },
+  "ad97bb70-0066-4e42-9b5f-173a5e42c6fc": {
+    "id": "ad97bb70-0066-4e42-9b5f-173a5e42c6fc",
+    "name": "SuperPins",
+    "description": "This Zen Mod enhances pinned tabs/Essentials, by making some UI/UX changes.",
+    "homepage": "https://github.com/CosmoCreeper/Zen-Themes/tree/main/SuperPins",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/ad97bb70-0066-4e42-9b5f-173a5e42c6fc/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/ad97bb70-0066-4e42-9b5f-173a5e42c6fc/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/ad97bb70-0066-4e42-9b5f-173a5e42c6fc/image.png",
+    "author": "CosmoCreeper",
+    "version": "1.7.0",
+    "preferences": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/ad97bb70-0066-4e42-9b5f-173a5e42c6fc/preferences.json",
+    "tags": [
+      "tabs"
+    ],
+    "createdAt": "2024-08-28",
+    "updatedAt": "2026-01-28",
+    "enabled": true
+  },
+  "3ff55ba7-4690-4f74-96a8-9e4416685e4e": {
+    "id": "3ff55ba7-4690-4f74-96a8-9e4416685e4e",
+    "name": "Colored container tab",
+    "description": "Changes the default container tab theme",
+    "homepage": "https://github.com/ocean-mars/things",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/3ff55ba7-4690-4f74-96a8-9e4416685e4e/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/3ff55ba7-4690-4f74-96a8-9e4416685e4e/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/3ff55ba7-4690-4f74-96a8-9e4416685e4e/image.png",
+    "author": "ocean-mars",
+    "version": "2.0.0",
+    "tags": [
+      "tabs"
+    ],
+    "createdAt": "2024-10-06",
+    "updatedAt": "2026-03-11",
+    "enabled": true
+  },
+  "599a1599-e6ab-4749-ab22-de533860de2c": {
+    "id": "599a1599-e6ab-4749-ab22-de533860de2c",
+    "name": "Pimp your PiP",
+    "description": "Collection of tweaks and upgrades to PiP",
+    "homepage": "",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/599a1599-e6ab-4749-ab22-de533860de2c/chrome.css",
+    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/599a1599-e6ab-4749-ab22-de533860de2c/readme.md",
+    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/599a1599-e6ab-4749-ab22-de533860de2c/image.png",
+    "author": "shldk",
+    "version": "1.0.0",
+    "tags": [],
+    "createdAt": "2025-02-07",
+    "updatedAt": "2025-05-13",
+    "enabled": true
+  }
+}
