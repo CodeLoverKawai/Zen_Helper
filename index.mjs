@@ -43,21 +43,21 @@ program
   .option('--no-session', 'Exclude open tabs and pins (Session)')
   .option('--no-history', 'Exclude History and Bookmarks')
   .option('--no-config', 'Exclude Preferences and CSS styles')
-  .action(async (options) => {
+  .action(async (opts) => {
     try {
-      const profilePath = resolveProfilePath(options.profile);
-      const outputPath = path.resolve(process.cwd(), options.output);
+      const profilePath = resolveProfilePath(opts.profile);
+      const outputPath = path.resolve(process.cwd(), opts.output);
 
       console.log(`📦 Exporting Zen Browser profile...`);
       console.log(`   Source profile: ${profilePath}`);
       console.log(`   Destination: ${outputPath}`);
 
       const result = await exportZenBackup(profilePath, outputPath, {
-        mods: options.mods,
-        extensions: options.extensions,
-        session: options.session,
-        history: options.history,
-        config: options.config
+        mods: opts.mods !== false,
+        extensions: opts.extensions !== false,
+        session: opts.session !== false,
+        history: opts.history !== false,
+        config: opts.config !== false
       });
 
       const sizeMB = (result.bytes / (1024 * 1024)).toFixed(2);
@@ -92,7 +92,7 @@ program
       console.log(`   Target profile: ${targetProfilePath}`);
 
       const result = await importZenBackup(backupPath, targetProfilePath, {
-        dryRun: options.dryRun,
+        dryRun: options.dryRun || false,
         mods: options.mods,
         extensions: options.extensions,
         session: options.session,
